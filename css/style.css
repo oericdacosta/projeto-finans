@@ -7,3 +7,17 @@
     padding: 60px 0;
     border: 1px solid #E5E5E5;
 }
+
+footer nav a{
+    margin: 5px 15px;
+}
+
+@media (max-width: 575.98px){
+    div.icons{
+        justify-content: center !important;
+    }
+
+    a.sm-ml-0{
+        margin-left: 0 !important;
+    }
+}
